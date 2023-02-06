@@ -1,1 +1,1 @@
-Docker é um Gerenciador de containers.
+Docker é um Gerenciador de containers grandes.

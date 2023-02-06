@@ -1,2 +1,2 @@
 Docker é um Gerenciador de containers grandes.
-essa linha foi feita no github
+essa linha foi feita no github.
